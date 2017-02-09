@@ -23,7 +23,7 @@
 		}
 	},
 	"rules": {
-		"indent": [2, "tab"],
+		"indent": [4, "tab"],
 		// require braces in arrow function body
 		"arrow-body-style": [1, "as-needed"],
 		// require parens in arrow function arguments
